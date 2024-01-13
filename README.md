@@ -6,13 +6,13 @@ Introducing a weather app. It's your go-to destination for accurate weather fore
 
 ### Netlify Link
 
-https://get-live-weather-details.netlify.app/
+https://livewheatherapp.netlify.app/
 
 ---
 
 ### Team Member
 
-- **[Dhruv Gupta](https://github.com/rkvirajgupta/)**
+- **[Dhruv Gupta](https://github.com/Dhruva8878)**
 
 ---
 
