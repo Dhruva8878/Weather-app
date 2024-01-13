@@ -12,7 +12,7 @@ https://get-live-weather-details.netlify.app/
 
 ### Team Member
 
-- **[Viraj Gupta](https://github.com/rkvirajgupta/)**
+- **[Dhruv Gupta](https://github.com/rkvirajgupta/)**
 
 ---
 
